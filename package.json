@@ -5,7 +5,9 @@
   "description": "The start of good things!",
   "private": true,
   "scripts": {},
-  "dependencies": {},
+  "dependencies": {
+    "node-forge": "^0.6.20"
+  },
   "devDependencies": {
     "webpack": "^1.4.3",
     "coffee-script": "^1.8.0",
