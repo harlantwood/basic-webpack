@@ -1,1 +1,1 @@
-alert "webpack is boss!"
+console.log "webpack is boss!"
