@@ -1,1 +1,0 @@
-module.exports = document.write("<p>Oh yeah another file</p>");
